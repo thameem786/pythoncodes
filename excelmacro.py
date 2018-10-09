@@ -1,5 +1,5 @@
 from openpyxl import load_workbook
-from openpyxl.utils import get_column_letter
+#from openpyxl.utils import get_column_letter
 from openpyxl.formatting.rule import ColorScaleRule, CellIsRule, FormulaRule
 from openpyxl.styles import Color, PatternFill, Font, Border
 redFill = PatternFill(start_color='EE1111',
