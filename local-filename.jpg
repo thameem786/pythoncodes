@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>Wynk Music | Play to Hindi, English, Punjabi, Old, New, Bollywood songs &amp; more</title>
+  <meta name="title" content="Wynk Music | Play to Hindi, English, Punjabi, Old, New, Bollywood songs &amp; more">
+  <meta name="description" content="Listen to your favorite music online or download mp3. Enjoy over 30 Lakh Hindi, English, Bollywood, Regional, Latest, Old songs. Create Listen to list, share, like your favorite music.">
+  <meta name="keywords" content="wynk, wynk music, wynk airtel, airtel music">
+<!-- Seo meta tags -->
+<meta property="og:title" content="Wynk Music | Play to Hindi, English, Punjabi, Old, New, Bollywood songs &amp; more">
+<meta property="og:description" content="Listen to your favorite music online or download mp3. Enjoy over 30 Lakh Hindi, English, Bollywood, Regional, Latest, Old songs. Create Listen to list, share, like your favorite music.">
+<meta property="og:image" content="https://wynk.in/assets/icons/icon-192x192.png">
+<meta property="og:url" content="https://wynk.in/music">
+<meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
+
+  <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+
+
+  <!-- Customize CSS -->
+  <!-- <link rel="stylesheet" href="/assets/css/w3.css"> -->
+  <!-- <link href="/assets/css/style.css" rel="stylesheet"> -->
+  <!-- <link rel="stylesheet" href="/assets/css/fonts.css"> -->
+  
+  <!-- Font Lato -->
+<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="/assets/favicon-wht.ico">
+  <!-- <link rel="shortcut icon" href="/assets/favicon-wht.ico"> -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#1976d2">
+<link rel="stylesheet" href="styles.85e87cc5777d598b0742.css"></head>
+<body>
+  <app-root></app-root>
+  <script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})
+			(
+			window,
+			document,
+			'script',
+			'https://www.google-analytics.com/analytics.js?id=UA-109342043-1',
+			'ga');
+		ga('create', 'UA-109342043-1', 'auto', { 'siteSpeedSampleRate': 100 });
+		ga('require', 'ec');
+		ga('send', 'pageview');
+  </script>
+  <noscript>Your browser does not support JavaScript!</noscript>
+
+
+<script type="text/javascript" src="runtime.22b8b817264e3f484b43.js"></script><script type="text/javascript" src="polyfills.69432c29d5f1e0007cba.js"></script><script type="text/javascript" src="scripts.43c0b870806b9a1309a6.js"></script><script type="text/javascript" src="vendor.34162db959c2178453ab.js"></script><script type="text/javascript" src="main.2dead5b4551bf6db0461.js"></script></body></html>
